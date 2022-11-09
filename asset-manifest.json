@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/digitalContacts/static/css/main.893b2ddd.css",
+    "main.css": "/digitalContacts/static/css/main.afc2c14e.css",
     "main.js": "/digitalContacts/static/js/main.bab89218.js",
     "static/js/787.bd2231ef.chunk.js": "/digitalContacts/static/js/787.bd2231ef.chunk.js",
     "static/media/musa salumu.jpeg": "/digitalContacts/static/media/musa salumu.1e4353200af359a43585.jpeg",
     "index.html": "/digitalContacts/index.html",
-    "main.893b2ddd.css.map": "/digitalContacts/static/css/main.893b2ddd.css.map",
+    "main.afc2c14e.css.map": "/digitalContacts/static/css/main.afc2c14e.css.map",
     "main.bab89218.js.map": "/digitalContacts/static/js/main.bab89218.js.map",
     "787.bd2231ef.chunk.js.map": "/digitalContacts/static/js/787.bd2231ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.893b2ddd.css",
+    "static/css/main.afc2c14e.css",
     "static/js/main.bab89218.js"
   ]
 }
